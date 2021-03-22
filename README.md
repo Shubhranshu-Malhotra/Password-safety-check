@@ -14,7 +14,7 @@
 *  **Any number of passwords can be checked in a single call.**  
 *  **Your passwords are not sent over the internet (they stay within your local machine) but you require an active internet connection to run this program.**  
   
-Running Example:   
+### Running Example:   
 **[If saved password_safety_checker.py on Desktop]**  
 **The path below might differ depending on your user_name**  
     
