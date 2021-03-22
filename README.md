@@ -1,5 +1,15 @@
 # Password-safety-check  
 
+This program has been built to **check the safety of passwords without exposing them to the internet**.   
+  
+Many leaks of user data of big companies like Amazon, Google, Microsoft, Adobe, LinkedIN, yahoo, etc. have occured in the past and continue to occur from time to time.   
+**The complete list of leaks can be found here: [ Wikipedia's list of user data leaks](https://en.wikipedia.org/wiki/List_of_data_breaches)**  
+  
+This program checks whether your password has been leaked on the internet in any of these leaks or not.    
+The program can run on your local computer. This helps to avoid exposing your passwords online.    
+This is an extremely secure way to check your paassword's security.  
+  
+
 ## Running Instructions:  
 
 #### To use this program to check safety of your passwords:  
