@@ -19,6 +19,6 @@ Running Example:
 **The path below might differ depending on your user_name**  
     
       
-`cd C:\Users\user_name\Desktop  
-python password_safety_check.py password123 hellopassword hello`  
+`cd C:\Users\user_name\Desktop`  
+`python password_safety_check.py password123 hellopassword hello`  
 
